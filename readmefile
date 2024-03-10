@@ -1,0 +1,7 @@
+session.sql dump in root directory upload this table  into a database and run
+
+url of the web  close previous session :
+http://127.0.0.1:8000/new-session
+
+api endpoint url :
+http://localhost:8000/api/data
